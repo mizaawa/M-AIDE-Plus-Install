@@ -1,5 +1,5 @@
 ## M-AIDE-Plus-Install
-This is a modified version of the NDK installer for Aide Plus
+这是一个基于Aide官方安装器开发的用于Aide Plus的ndk下载安装工具
 # 功能更新
 - 新增 r17-r24 版本的内部下载线路，覆盖更多 NDK 版本需求
 - 针对 r24 版本优化下载体验，采用国内网盘直链下载，提升下载速度
