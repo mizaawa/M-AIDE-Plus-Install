@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/mizaawa/M-AIDE-Plus-Install)
 ![GitHub issues](https://img.shields.io/github/issues/mizaawa/M-AIDE-Plus-Install)
 
-**基于 Aide Plus 官方安装器开发的 NDK 下载安装增强工具**
+**基于 Aide Plus 官方 NDK 安装脚本开发的 NDK 安装增强脚本**
 
 </div>
 
